@@ -1,9 +1,8 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>
 <html> <h1>
-Welcome to our 1st Ranjith Devops Training Excellent program!! but done silly mistake
+This is my Bamboo! i am commiting from Source Tree
 </h1>
-<h2> Opensource Tree</h2>
         <body>
                 <form method="post" action="CalculatorController">
                         Number 1 : <input type="text" name="no1"> <br>
